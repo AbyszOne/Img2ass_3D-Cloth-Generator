@@ -14,4 +14,4 @@ This model was trained to recognize the asset format used by the VRoid program. 
  
  Thanks to the training, you will be able to apply textures and clothing styles, since it will try to respect the asset's format, instead of generating common clothing superimposed on the image like any other model.
  
- Very high CFG and denoising levels are recommended, as well as accentuating keywords liberally.
+ Give it a generous description. Very high CFG and denoising levels are recommended, as well as accentuating keywords liberally.
